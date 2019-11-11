@@ -1,0 +1,47 @@
+# temp file
+
+# Operating System Files
+.svn
+.idea/workspace.xml
+.idea
+
+docker/debug-log/src/vendor
+
+
+env.php
+*.js.map
+node_modules
+*.DS_Store  
+Thumbs.db  
+*.sw?  
+.#*  
+*#  
+*~  
+*.sublime-*  
+logs/*.log
+# Build Artifacts
+.htaccess
+.gradle/  
+build/  
+target/
+dependency-reduced-pom.xml  
+  
+# Eclipse Project Files  
+  
+.classpath  
+.project  
+.settings/  
+  
+# IntelliJ IDEA Files  
+  
+*.iml  
+*.ipr  
+*.iws  
+*.idea  
+
+docker/dev/data/
+*.data
+README.html  
+supervisord.pid
+
+*.master.bak.*
